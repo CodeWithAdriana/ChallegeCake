@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #f8f9fa;
+    /* Añadido para ver si el fondo está en blanco */
+    color: #212529;
+    /* Añadido para asegurar que el texto sea visible */
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+.Cake {
+    font-size: 20vh;
+}
+
+.footer {
+    background-color: #dc3545;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    padding: 10px 0;
+}
